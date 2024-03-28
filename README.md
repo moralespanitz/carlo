@@ -1,7 +1,17 @@
+<div align="center">
+
+<img width="100px" src="https://github.com/moralespanitz/carlo/blob/main/assets/carlo-logo.png" />
+
 # Carlo
-To build, run:
-```sh
-yarn build
-```
-Go to Google Chrome > Extension Management
-Activate Developer Tool and load dist/ folder
+
+### AI Grammar English Tutor 
+-----
+
+An extension designed to enhance your English grammar with AI-generated suggestions.
+
+-----
+
+## 🎥 Demo
+
+</html>
+
